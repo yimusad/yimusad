@@ -1,6 +1,6 @@
 ### Halla, I'm Yara [she/her] 👋
 
-- ⚡ Fun fact: ...
+<!--⚡ Fun fact: ... -->
 
 🔭 I’m currently working as ...  
   - a Research & Developement Intern @ iPipline
