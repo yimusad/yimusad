@@ -15,7 +15,7 @@
   - swift by building my first full-stack iOS application w/ CodePath
   - data structures fundamentals w/ Meta through ABCS
   - SQL by building a library RDBMS from scratch as well as leveraging it in my recent internship experience
-  - Deep learning principles by creating models for the purposes of tumor classification based on brain scans
+  - deep learning & Machine learning principles through participating in the CAFA5 Kaggle Competiton 
 
  📫 How to reach me:
  - LinkedIn: yara-musad
