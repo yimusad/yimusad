@@ -2,12 +2,14 @@
 
 <!-- Fun fact: ... -->
 
-👩🏽‍💻 I’m currently working as ...  
-  - a Teaching Assistant for the College of Computing & Informatics @ Drexel University
-  - a Peer Mentor for the College of Computing & Informatics @ Drexel University
+👩🏽‍💻 I’m currently working as ... 
+  - a Research Assistant @ CCI working on fine tunning LLM's through Reinforcement Learning
+  - a Teaching Assistant  & Dean's Ambassador for the College of Computing & Informatics @ Drexel University
 
+    
 🔭 In the past, I've worked as ...
   - an R&D Software Engineering Intern @ iPipeline
+  - an Impact Strategy Consulting Extern @ PwC in collaboration with Extern
   - an International Student Ambassador @ Shoreline Community College
 
 🌱 I’ve learned & am learning...
