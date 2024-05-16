@@ -3,6 +3,7 @@
 <!-- Fun fact: ... -->
 
 👩🏽‍💻 I’m currently working as ... 
+  - a Software Engineering Intern @ LinkedIn (incoming June, 2024)
   - a Research Assistant @ CCI working on fine tunning LLM's through Reinforcement Learning
   - a Teaching Assistant  & Dean's Ambassador for the College of Computing & Informatics @ Drexel University
 
