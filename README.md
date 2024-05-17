@@ -12,7 +12,6 @@
   - an R&D Software Engineering Intern @ iPipeline
   - an Impact Strategy Consulting Extern @ PwC in collaboration with Extern
   - a Peer Mentor for the College of Computing & Informatics @ Drexel University
-
   - an International Student Ambassador @ Shoreline Community College
 
 🌱 I’ve learned & am learning...
