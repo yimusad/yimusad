@@ -1,5 +1,7 @@
 ### Halla, I'm Yara [she/her] 👋
 
+#### I'm an International student from Sudan, currently studying Data Science & Software Engineering @ Drexel University in Philadelphia!
+
 <!-- Fun fact: ... -->
 
 👩🏽‍💻 I’m currently working as ... 
